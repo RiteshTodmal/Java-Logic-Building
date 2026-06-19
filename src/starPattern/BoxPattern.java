@@ -19,13 +19,7 @@ public class BoxPattern {
 			
 			System.out.println();
 		}
-		
-		
-		
-		
-		
-		
-		
+	
 	}
 
 }
